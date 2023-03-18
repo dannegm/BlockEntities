@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c132aeae-4fc4-43f8-85cf-bc810c108b98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/im/dnn/BlockEntities/BlockEntities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/im/dnn/BlockEntities/Commands/BlockCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/im/dnn/BlockEntities/Commands/MainCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/im/dnn/BlockEntities/Commands/MainCompleter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/im/dnn/BlockEntities/Constants/Commands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/im/dnn/BlockEntities/Constants/Defaults.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/im/dnn/BlockEntities/Constants/Keys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/im/dnn/BlockEntities/Constants/Permissions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/im/dnn/BlockEntities/Listeners/BlockListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/im/dnn/BlockEntities/Managers/BlockManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/im/dnn/BlockEntities/Models/BlockEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/im/dnn/BlockEntities/Models/BlockItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/im/dnn/BlockEntities/Utils/Helpers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/im/dnn/BlockEntities/Utils/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/im/dnn/BlockEntities/Utils/Settings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
-    </list>
+    <list default="true" id="c132aeae-4fc4-43f8-85cf-bc810c108b98" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
