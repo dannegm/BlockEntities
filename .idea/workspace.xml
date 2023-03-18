@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c132aeae-4fc4-43f8-85cf-bc810c108b98" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/im/dnn/BlockEntities/BlockEntities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/im/dnn/BlockEntities/Commands/BlockCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/im/dnn/BlockEntities/Commands/MainCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/im/dnn/BlockEntities/Commands/MainCompleter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/im/dnn/BlockEntities/Constants/Commands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/im/dnn/BlockEntities/Constants/Defaults.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/im/dnn/BlockEntities/Constants/Keys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/im/dnn/BlockEntities/Constants/Permissions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/im/dnn/BlockEntities/Listeners/BlockListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/im/dnn/BlockEntities/Managers/BlockManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/im/dnn/BlockEntities/Models/BlockEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/im/dnn/BlockEntities/Models/BlockItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/im/dnn/BlockEntities/Utils/Helpers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/im/dnn/BlockEntities/Utils/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/im/dnn/BlockEntities/Utils/Settings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NAD8N1NNdYdn7LWXwLIj0sOv33" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="im.dnn.BlockEntities" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Debug Spigot" type="Remote">
+      <module name="BlockEntities" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5005" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c132aeae-4fc4-43f8-85cf-bc810c108b98" name="Changes" comment="" />
+      <created>1679097832851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679097832851</updated>
+    </task>
+    <servers />
+  </component>
+</project>

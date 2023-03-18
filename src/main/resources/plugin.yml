@@ -1,0 +1,23 @@
+name: BlockEntities
+version: 1.1.0
+main: im.dnn.BlockEntities.BlockEntities
+api-version: 1.19
+
+commands:
+  blockentities:
+    description: BlockEntities base command
+    usage: /blockentities help
+
+permissions:
+  blockentities.reload:
+    description: Allows to execute the reload command
+    default: false
+  blockentities.get:
+    description: Allows to use the get command to the players
+    default: false
+  blockentities.place:
+    description: Allows to place blocks to the players
+    default: false
+  blockentities.break:
+    description: Allows to break blocks to the players
+    default: false

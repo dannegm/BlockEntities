@@ -1,0 +1,71 @@
+debug: true
+
+messages:
+  prefix: "&a&o&l[Block&b&o&lEntities] &7&o"
+
+  reloaded: Plugin settings has been reloaded
+  cantReload: You don't have permissions to reload the settings
+  cantGet: You don't have permissions to get a block
+  cantPlace: You don't have permissions to place this kind of blocks
+  cantBreak: You don't have permissions to break this kind of blocks
+  commandBlockMissing: Please, provide the name of the block you want to get
+  commandBlockNotExists: Give block name does not exists, please provide a valid one
+  commandNotPlayer: Only one player can execute this command
+
+blocks:
+  - key: braid
+    displayName: "&b&oBraid"
+    lore: []
+    customModelData: 1000
+  - key: circuit
+    displayName: "&b&oCircuit"
+    lore: []
+    customModelData: 1001
+  - key: circular
+    displayName: "&b&oCircular"
+    lore: []
+    customModelData: 1002
+  - key: dots
+    displayName: "&b&oDots"
+    lore: []
+    customModelData: 1003
+  - key: frameblue
+    displayName: "&b&oFrame Blue"
+    lore: []
+    customModelData: 1004
+  - key: goldplate
+    displayName: "&b&oGoldplate"
+    lore: []
+    customModelData: 1005
+  - key: goldplating
+    displayName: "&b&oGoldplating"
+    lore: []
+    customModelData: 1006
+  - key: hazard
+    displayName: "&b&oHazard"
+    lore: []
+    customModelData: 1007
+  - key: hazardorange
+    displayName: "&b&oHazard Orange"
+    lore: []
+    customModelData: 1008
+  - key: mosaic
+    displayName: "&b&oMosaic"
+    lore: []
+    customModelData: 1009
+  - key: platex
+    displayName: "&b&oPlatex"
+    lore: []
+    customModelData: 1010
+  - key: rust
+    displayName: "&b&oRust"
+    lore: []
+    customModelData: 1011
+  - key: slanted
+    displayName: "&b&oSlanted"
+    lore: []
+    customModelData: 1012
+  - key: wireframe
+    displayName: "&b&oWireframe"
+    lore: []
+    customModelData: 1013
