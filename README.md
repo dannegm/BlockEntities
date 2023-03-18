@@ -18,8 +18,8 @@ Installing the plugin is simple, just place the plugin's JAR file in the server'
 
 For additional information on the plugin, please refer to the following entries in the Wiki:
 
-- Block Configuration
-- How to create a texture pack
-- Commands and Permissions
+- [Block Configuration](https://github.com/dannegm/BlockEntities/wiki/Block-Configuration)
+- [How to create a texture pack](https://github.com/dannegm/BlockEntities/wiki/How-to-create-a-texture-pack)
+- [Commands and Permissions](https://github.com/dannegm/BlockEntities/wiki/Commands-and-Permissions)
 
 These entries provide detailed explanations on how to configure and customize blocks, create a texture pack, and use the necessary commands and permissions for plugin usage.
