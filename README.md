@@ -2,9 +2,10 @@
 
 **BlockEntities** is a plugin that uses the new [Display Entities](https://minecraft.fandom.com/wiki/Display) from Minecraft version **1.19.4** to create custom blocks. The plugin's goal is to explore the possibilities that these entities offer.
 
-|[Download Here](https://www.spigotmc.org/resources/blockentities-with-displayentities.108705/)|
+| [Download Here](https://www.spigotmc.org/resources/blockentities-with-displayentities.108705/) |
 
-|![Placing Blocks](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTA2OWUwM2Y5MTcyNWVlYzViOWUxMDY3ZDU4MDM3ODQyZDM2MGRhZCZjdD1n/CEU0cdRdsgkDpkU4Cc/giphy.gif)|![Breaking Blocks](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWEyNTdiOTRmNThkNzc3Y2U4N2YyNzVkNjU4MDkwYmNkMTkzNDljZSZjdD1n/G2GYMImNuaPYhDCHiK/giphy-downsized-large.gif)|
+![Placing Blocks](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTA2OWUwM2Y5MTcyNWVlYzViOWUxMDY3ZDU4MDM3ODQyZDM2MGRhZCZjdD1n/CEU0cdRdsgkDpkU4Cc/giphy.gif)
+![Breaking Blocks](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWEyNTdiOTRmNThkNzc3Y2U4N2YyNzVkNjU4MDkwYmNkMTkzNDljZSZjdD1n/G2GYMImNuaPYhDCHiK/giphy-downsized-large.gif)
 
 To function, the plugin requires a texture pack that allows the Display Entity to render the desired block. Inside, the plugin creates a Display Entity with **CustomModelData** and adds a **Barrier** to give it a hitbox.
 
