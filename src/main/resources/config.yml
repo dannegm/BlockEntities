@@ -17,55 +17,35 @@ blocks:
     displayName: "&b&oBraid"
     lore: []
     customModelData: 1000
-  - key: circuit
-    displayName: "&b&oCircuit"
-    lore: []
-    customModelData: 1001
-  - key: circular
-    displayName: "&b&oCircular"
-    lore: []
-    customModelData: 1002
   - key: dots
     displayName: "&b&oDots"
     lore: []
-    customModelData: 1003
-  - key: frameblue
-    displayName: "&b&oFrame Blue"
-    lore: []
-    customModelData: 1004
+    customModelData: 1001
   - key: goldplate
     displayName: "&b&oGoldplate"
     lore: []
-    customModelData: 1005
-  - key: goldplating
-    displayName: "&b&oGoldplating"
-    lore: []
-    customModelData: 1006
+    customModelData: 1002
   - key: hazard
     displayName: "&b&oHazard"
     lore: []
-    customModelData: 1007
+    customModelData: 1003
   - key: hazardorange
     displayName: "&b&oHazard Orange"
     lore: []
-    customModelData: 1008
-  - key: mosaic
+    customModelData: 1004
+  - key: mosaice
     displayName: "&b&oMosaic"
     lore: []
-    customModelData: 1009
+    customModelData: 1005
   - key: platex
     displayName: "&b&oPlatex"
     lore: []
-    customModelData: 1010
+    customModelData: 1006
   - key: rust
     displayName: "&b&oRust"
     lore: []
-    customModelData: 1011
-  - key: slanted
-    displayName: "&b&oSlanted"
-    lore: []
-    customModelData: 1012
+    customModelData: 1007
   - key: wireframe
     displayName: "&b&oWireframe"
     lore: []
-    customModelData: 1013
+    customModelData: 1008

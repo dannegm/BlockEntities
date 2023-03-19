@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:block/stone",
+    "overrides": [
+        { "predicate": { "custom_model_data": 1000 }, "model": "blockentities:item/braid" },
+        { "predicate": { "custom_model_data": 1001 }, "model": "blockentities:item/dots" },
+        { "predicate": { "custom_model_data": 1002 }, "model": "blockentities:item/goldplate" },
+        { "predicate": { "custom_model_data": 1003 }, "model": "blockentities:item/hazard" },
+        { "predicate": { "custom_model_data": 1004 }, "model": "blockentities:item/hazardorange" },
+        { "predicate": { "custom_model_data": 1005 }, "model": "blockentities:item/mosaic" },
+        { "predicate": { "custom_model_data": 1006 }, "model": "blockentities:item/platex" },
+        { "predicate": { "custom_model_data": 1007 }, "model": "blockentities:item/rust" },
+        { "predicate": { "custom_model_data": 1008 }, "model": "blockentities:item/wireframe" }
+    ]
+}
